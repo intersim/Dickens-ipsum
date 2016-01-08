@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #EEE5DE;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Meddon";
+    font-size: 60px;
+}
+
+.header {
+    text-align: center;
+    background-color: #EEE5DE;
+    height: 20%;
+    width: 100%;
+}
+
+.content {
+    color: #000000;
+    background-color: #ffffff;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+    margin-left: 28%;
+    margin-right: 28%;
+    padding: 30px;
+    height: 60%;
+}
+
+form {
+}
+
+.back {
+    text-align: center;
+    vertical-align: middle;
+}
+
+a:link {
+    text-decoration: none;
+    color: #e60000;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+a:active {
+    text-decoration: none;
+    color: red;
+}
